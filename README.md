@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>CloudSentinel Security Checker</title>
-</head>
+
 <body>
   <h1>CloudSentinel Security Checker</h1>
 
